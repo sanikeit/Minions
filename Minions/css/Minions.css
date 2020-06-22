@@ -13,7 +13,7 @@ body {
 .container {width: 970px;margin: 0 auto;padding-top: 70px;transition: ease 0.3s all;
 -webkit-transition: ease 0.3s all;}
 
-.container h1, h6 {text-align: center;color: #696969; font-family: tahoma;}
+.container h1, h3 {text-align: center;color: #696969; font-family: tahoma;}
 
 h3 {color:#BDBDBD; margin-bottom: 30px}
 
